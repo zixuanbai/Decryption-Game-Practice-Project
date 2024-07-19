@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c512ffec1e74990408d1f9d62e1fc1b9, type: 3}
+  m_Name: CharacterEmpty
+  m_EditorClassIdentifier: 
+  dialogueList:
+  - I'm getting old, and I can't remember many things.
+  - Who are you? Never mind, I don't care who you are. Can you help me find the mailbox
+    key?
+  - The old man said he would send me a ticket soon and asked me to go out with him.
+    Although I'm not really interested...
+  - He has been tinkering his whole life, either fiddling with a time machine upstairs
+    or going out to sea to find something.
+  - These strange TV programs are really not interesting.
+  - The old man says there are many secrets on this island, but I know he's just
+    trying to find something to do because life on the island is too lonely.
+  - People, well, who hasn't been young? When I was young... never mind, let's not
+    talk about the past.
+  - It's only when you get old that you realize everything is quietly mysterious.
